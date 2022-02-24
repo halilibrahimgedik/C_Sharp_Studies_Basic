@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\bin\Debug\Timer_Kullanımı.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\bin\Debug\Timer_Kullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\bin\Debug\Timer_Kullanımı.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Timer_Kullanımı\obj\Debug\Timer_Kullanımı.pdb
