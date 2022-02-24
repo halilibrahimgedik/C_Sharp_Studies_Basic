@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\bin\Debug\TextBox Label calısmalar.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\bin\Debug\TextBox Label calısmalar.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\bin\Debug\TextBox Label calısmalar.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox_Label_calısmalar.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox_Label_calısmalar.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\TextBox Label calısmalar\obj\Debug\TextBox Label calısmalar.pdb
