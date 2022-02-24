@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\bin\Debug\Tc_Tel_Resim_MaskedBox_Tarih.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\bin\Debug\Tc_Tel_Resim_MaskedBox_Tarih.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\bin\Debug\Tc_Tel_Resim_MaskedBox_Tarih.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Tc_Tel_Resim_MaskedBox_Tarih\obj\Debug\Tc_Tel_Resim_MaskedBox_Tarih.pdb
