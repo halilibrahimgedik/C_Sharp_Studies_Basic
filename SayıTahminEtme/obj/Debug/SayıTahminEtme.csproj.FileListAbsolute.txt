@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\bin\Debug\SayıTahminEtme.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\bin\Debug\SayıTahminEtme.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\bin\Debug\SayıTahminEtme.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\SayıTahminEtme\obj\Debug\SayıTahminEtme.pdb
