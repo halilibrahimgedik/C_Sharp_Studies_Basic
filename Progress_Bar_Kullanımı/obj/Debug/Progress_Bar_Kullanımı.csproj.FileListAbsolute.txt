@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\bin\Debug\Progress_Bar_Kullanımı.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Progress_Bar_Kullanımı\obj\Debug\Progress_Bar_Kullanımı.csproj.AssemblyReference.cache
