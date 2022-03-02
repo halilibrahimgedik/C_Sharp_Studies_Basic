@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\bin\Debug\Metot_Çalışmalar(basiz).exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\bin\Debug\Metot_Çalışmalar(basiz).exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\bin\Debug\Metot_Çalışmalar(basiz).pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basic).csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basic).csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar_basiz_.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar_basiz_.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basic).csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basic).csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basiz).exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Metot_Çalışmalar(basiz)\obj\Debug\Metot_Çalışmalar(basiz).pdb
