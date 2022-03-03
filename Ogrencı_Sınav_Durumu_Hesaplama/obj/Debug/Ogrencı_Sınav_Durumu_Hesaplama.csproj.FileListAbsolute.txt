@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\bin\Debug\Ogrencı_Sınav_Durumu_Hesaplama.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\bin\Debug\Ogrencı_Sınav_Durumu_Hesaplama.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\bin\Debug\Ogrencı_Sınav_Durumu_Hesaplama.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Ogrencı_Sınav_Durumu_Hesaplama\obj\Debug\Ogrencı_Sınav_Durumu_Hesaplama.pdb
