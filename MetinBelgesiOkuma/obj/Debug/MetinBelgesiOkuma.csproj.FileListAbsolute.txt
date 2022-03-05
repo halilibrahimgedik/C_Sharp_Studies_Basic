@@ -1,0 +1,10 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\bin\Debug\MetinBelgesiOkuma.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\bin\Debug\MetinBelgesiOkuma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\bin\Debug\MetinBelgesiOkuma.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesiOkuma\obj\Debug\MetinBelgesiOkuma.pdb
