@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\bin\Debug\MetinBelgesiOlusturma.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\MetinBelgesiOlusturma\obj\Debug\MetinBelgesiOlusturma.pdb
