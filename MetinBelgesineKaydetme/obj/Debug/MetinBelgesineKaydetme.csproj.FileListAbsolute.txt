@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\bin\Debug\MetinBelgesineKaydetme.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\bin\Debug\MetinBelgesineKaydetme.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\bin\Debug\MetinBelgesineKaydetme.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MetinBelgesineKaydetme\obj\Debug\MetinBelgesineKaydetme.pdb
