@@ -1,0 +1,12 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\bin\Debug\Formlar Arası Veri Taşıma.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Form2.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar_Arası_Veri_Taşıma.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Formlar Arası Veri Taşıma\obj\Debug\Formlar Arası Veri Taşıma.pdb
