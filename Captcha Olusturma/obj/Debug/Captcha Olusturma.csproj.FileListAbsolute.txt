@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\bin\Debug\Captcha Olusturma.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\bin\Debug\Captcha Olusturma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\bin\Debug\Captcha Olusturma.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha_Olusturma.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha_Olusturma.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Captcha Olusturma\obj\Debug\Captcha Olusturma.pdb
