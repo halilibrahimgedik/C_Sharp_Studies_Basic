@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\bin\Debug\Bilgi_yarışması(basic).exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\bin\Debug\Bilgi_yarışması(basic).exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\bin\Debug\Bilgi_yarışması(basic).pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması_basic_.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması_basic_.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Bilgi_yarışması(basic)\obj\Debug\Bilgi_yarışması(basic).pdb
