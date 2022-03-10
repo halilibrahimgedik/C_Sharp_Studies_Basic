@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\bin\Debug\MenuStripKullanımı.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\bin\Debug\MenuStripKullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\bin\Debug\MenuStripKullanımı.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\MenuStripKullanımı\obj\Debug\MenuStripKullanımı.pdb
