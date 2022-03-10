@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\bin\Debug\Try_Catch Calismasi.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\bin\Debug\Try_Catch Calismasi.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\bin\Debug\Try_Catch Calismasi.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch_Calismasi.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch_Calismasi.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar basic\Try_Catch Calismasi\obj\Debug\Try_Catch Calismasi.pdb
